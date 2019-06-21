@@ -121,6 +121,6 @@ patch:
     - derive/ua$/au/                   # shau => shua
     - derive/([iu])a(o|ng?)$/a$1$2/    # tain => tian
 
-    # 分尖團後 v => ü 的改寫條件也要相應地擴充：
-    #'translator/preedit_format':
+  # 分尖團後 v => ü 的改寫條件也要相應地擴充：
+  #'translator/preedit_format':
     #- "xform/([nljqxyzcs])v/$1ü/"
